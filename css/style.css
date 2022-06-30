@@ -235,11 +235,11 @@ footer {
 		float: none;
 	}
 	.box .col-4 {
-		width:33%;
+		width:25%;
 		padding:20px;
 		box-sizing: border-box;
 		text-align: center;
-		font-size: 10px;
+		font-size: 8px;
 		float: left;
 	}
 	
@@ -247,7 +247,7 @@ footer {
 		font-size: 15px;
 	}
 	.box .col-4 .img {
-		width: 60px;
+		width: 40px;
 	}
 	.box .foto .img{
 		width: 90%;
