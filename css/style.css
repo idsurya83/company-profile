@@ -62,7 +62,7 @@ header ul li a:hover {
 	color: #fff;
 }
 .banner {
-	height: 60vh;
+	height: 80vh;
 	background-image: url('../img/banner71.jpg');
 	background-size: cover;
 	position: relative;
@@ -87,7 +87,8 @@ header ul li a:hover {
 	border:3px solid #fff;
 }
 section {
-	padding:50px 0;
+	padding:40px 0;
+	margin-bottom: 10px;
 }
 section h3 {
 	text-align: center;
@@ -299,8 +300,9 @@ header .menu{
 }
 .menu2 {
 	font-size: 7pt;
-	padding: 8px 0;	
+	padding: none;	
 }
+
 .container1 {
 	width: 90%;
 	border: 0ex;
@@ -364,3 +366,8 @@ footer {
 	background-color: #333;
 	color: #fff;
 	text-align: center;
+}
+.menu2 .active {
+	background-color: #148F77;
+	color: rgb(226, 132, 198);
+}
