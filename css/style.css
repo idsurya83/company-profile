@@ -368,7 +368,11 @@ section .about {
 	color: #148F77;
 	text-align:center;
   }
-
+  .service {
+	background-color: #ecf0e9;
+	padding-top: 0%;
+	padding-bottom: 0%;
+}
   footer {
 	font-size: 10px;
   }
